@@ -26,7 +26,7 @@ function App() {
         <Joke joke={joke} />
       </div>
       
-      <div className="mt-5 pt-3">
+      <div className="mt-4 pt-4">
             <Password />
       </div>
       </div>
